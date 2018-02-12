@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/moeinrahimi/snail#readme",
   "dependencies": {
+    "axios": "^0.17.1",
     "puppeteer": "^1.0.0"
   }
 }
